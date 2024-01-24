@@ -1,0 +1,28 @@
+{
+  "name": "maodong",
+  "version": "0.0.1",
+  "description": "This package is in BETA mode right now. Usage is not advised.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBharatMishra/maodong.git"
+  },
+  "keywords": [
+    "ze",
+    "maodong"
+  ],
+  "author": "Bharat Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBharatMishra/maodong/issues"
+  },
+  "homepage": "https://github.com/TheBharatMishra/maodong#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
